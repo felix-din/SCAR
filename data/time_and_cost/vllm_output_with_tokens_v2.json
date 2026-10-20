@@ -1,0 +1,2219 @@
+{
+    "performance_statistics": {
+        "total_samples": 200,
+        "total_time_seconds": 13.2703,
+        "average_time_per_sample_seconds": 0.0664,
+        "min_sample_time_seconds": 0.063,
+        "max_sample_time_seconds": 13.2703
+    },
+    "token_statistics": {
+        "total_prompt_tokens": 202503,
+        "total_completion_tokens": 3901,
+        "grand_total_tokens": 206404,
+        "average_tokens_per_sample": 1032.02,
+        "min_sample_tokens": 903,
+        "max_sample_tokens": 1489
+    },
+    "results": [
+        {
+            "original_id": "NQ2220",
+            "question": "who played the music producer in pitch perfect 2",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1009,
+                "completion_tokens": 10,
+                "total_tokens": 1019
+            },
+            "estimated_time_seconds": 13.2703
+        },
+        {
+            "original_id": "NQ2270",
+            "question": "how many episodes are in chicago fire season 4",
+            "model_answer": "Twenty-three episodes.",
+            "token_stats": {
+                "prompt_tokens": 1013,
+                "completion_tokens": 5,
+                "total_tokens": 1018
+            },
+            "estimated_time_seconds": 6.6319
+        },
+        {
+            "original_id": "NQ0094",
+            "question": "nickname given to railroad executives due to shady practices of their businesses",
+            "model_answer": "Damn Small Salary & Abuse; Dead Slow Service & Agony; America's first railroad king; None of these options. Answer: None of these options.",
+            "token_stats": {
+                "prompt_tokens": 1019,
+                "completion_tokens": 32,
+                "total_tokens": 1051
+            },
+            "estimated_time_seconds": 4.5165
+        },
+        {
+            "original_id": "NQ0180",
+            "question": "when did the crucifix become the symbol of christianity",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1005,
+                "completion_tokens": 10,
+                "total_tokens": 1015
+            },
+            "estimated_time_seconds": 3.2828
+        },
+        {
+            "original_id": "NQ0470",
+            "question": "who plays the robot maid in richie rich",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 966,
+                "completion_tokens": 10,
+                "total_tokens": 976
+            },
+            "estimated_time_seconds": 2.5501
+        },
+        {
+            "original_id": "NQ0093",
+            "question": "when is the last time the new york giants won the super bowl",
+            "model_answer": "XLVI.",
+            "token_stats": {
+                "prompt_tokens": 927,
+                "completion_tokens": 4,
+                "total_tokens": 931
+            },
+            "estimated_time_seconds": 2.0557
+        },
+        {
+            "original_id": "NQ0898",
+            "question": "when did the government change the retirement age",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1032,
+                "completion_tokens": 10,
+                "total_tokens": 1042
+            },
+            "estimated_time_seconds": 1.9608
+        },
+        {
+            "original_id": "NQ1935",
+            "question": "when did the wave hill walk off end",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1066,
+                "completion_tokens": 11,
+                "total_tokens": 1077
+            },
+            "estimated_time_seconds": 1.7582
+        },
+        {
+            "original_id": "NQ2150",
+            "question": "how many levels are there on the eiffel tower",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 950,
+                "completion_tokens": 10,
+                "total_tokens": 960
+            },
+            "estimated_time_seconds": 1.4016
+        },
+        {
+            "original_id": "NQ1149",
+            "question": "who is command sergeant major of the army",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 928,
+                "completion_tokens": 10,
+                "total_tokens": 938
+            },
+            "estimated_time_seconds": 1.2414
+        },
+        {
+            "original_id": "NQ0861",
+            "question": "where was the last scene of the danish girl filmed",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1047,
+                "completion_tokens": 10,
+                "total_tokens": 1057
+            },
+            "estimated_time_seconds": 1.2655
+        },
+        {
+            "original_id": "NQ0803",
+            "question": "where does the white witch live in narnia",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 955,
+                "completion_tokens": 10,
+                "total_tokens": 965
+            },
+            "estimated_time_seconds": 1.0628
+        },
+        {
+            "original_id": "NQ2719",
+            "question": "who was the captain of the mayflower which brought the pilgrims to plymouth",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1014,
+                "completion_tokens": 11,
+                "total_tokens": 1025
+            },
+            "estimated_time_seconds": 1.0404
+        },
+        {
+            "original_id": "NQ1575",
+            "question": "when did the study of media effects begin",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 991,
+                "completion_tokens": 10,
+                "total_tokens": 1001
+            },
+            "estimated_time_seconds": 0.9438
+        },
+        {
+            "original_id": "NQ1312",
+            "question": "who plays the dwarf king in the hobbit",
+            "model_answer": "I cannot answer based on the specific information about dwarves mentioned in these texts.",
+            "token_stats": {
+                "prompt_tokens": 1062,
+                "completion_tokens": 17,
+                "total_tokens": 1079
+            },
+            "estimated_time_seconds": 0.9449
+        },
+        {
+            "original_id": "NQ1816",
+            "question": "what year does the quiet man take place",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 932,
+                "completion_tokens": 10,
+                "total_tokens": 942
+            },
+            "estimated_time_seconds": 0.7766
+        },
+        {
+            "original_id": "NQ1040",
+            "question": "who drives the number 95 car in nascar",
+            "model_answer": "Matt DiBenedetto.",
+            "token_stats": {
+                "prompt_tokens": 1053,
+                "completion_tokens": 7,
+                "total_tokens": 1060
+            },
+            "estimated_time_seconds": 0.8199
+        },
+        {
+            "original_id": "NQ0972",
+            "question": "what is the word for clarified butter in the balkans and middle east",
+            "model_answer": "Ghee.  (from reference: In South Asian cuisine and Arab cuisine, ghee is made by cooking clarified butter longer during the separation process...) )   .",
+            "token_stats": {
+                "prompt_tokens": 1013,
+                "completion_tokens": 34,
+                "total_tokens": 1047
+            },
+            "estimated_time_seconds": 0.7633
+        },
+        {
+            "original_id": "NQ2428",
+            "question": "when was the first temple built in jerusalem",
+            "model_answer": "957 BCE, according to Jewish tradition and scripture; late 8th - early 7th centuries BCE, according to archaeologists Israel Finkelstein and Neil Asher Silberman.  End of the 7th century BCE, according to another source.",
+            "token_stats": {
+                "prompt_tokens": 945,
+                "completion_tokens": 55,
+                "total_tokens": 1000
+            },
+            "estimated_time_seconds": 0.6911
+        },
+        {
+            "original_id": "NQ1197",
+            "question": "how long was dark side of the moon number 1",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 939,
+                "completion_tokens": 10,
+                "total_tokens": 949
+            },
+            "estimated_time_seconds": 0.6249
+        },
+        {
+            "original_id": "NQ1690",
+            "question": "when does elijah first appear in vampire diaries",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 999,
+                "completion_tokens": 10,
+                "total_tokens": 1009
+            },
+            "estimated_time_seconds": 0.6328
+        },
+        {
+            "original_id": "NQ0970",
+            "question": "who changed the role of the first lady",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1002,
+                "completion_tokens": 10,
+                "total_tokens": 1012
+            },
+            "estimated_time_seconds": 0.6057
+        },
+        {
+            "original_id": "NQ1587",
+            "question": "the lowest temperature at which a lubricant will flow is called the",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 918,
+                "completion_tokens": 10,
+                "total_tokens": 928
+            },
+            "estimated_time_seconds": 0.5331
+        },
+        {
+            "original_id": "NQ1714",
+            "question": "first dynasty to issue gold coins in india",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 977,
+                "completion_tokens": 10,
+                "total_tokens": 987
+            },
+            "estimated_time_seconds": 0.5437
+        },
+        {
+            "original_id": "NQ1160",
+            "question": "who came in last place on amazing race",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 920,
+                "completion_tokens": 10,
+                "total_tokens": 930
+            },
+            "estimated_time_seconds": 0.4933
+        },
+        {
+            "original_id": "NQ2746",
+            "question": "when did they stop using aluminum wiring in ontario",
+            "model_answer": "I cannot answer based on the provided documents.  ```python",
+            "token_stats": {
+                "prompt_tokens": 933,
+                "completion_tokens": 13,
+                "total_tokens": 946
+            },
+            "estimated_time_seconds": 0.4835
+        },
+        {
+            "original_id": "NQ1069",
+            "question": "how many times has psg won champions league",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1121,
+                "completion_tokens": 11,
+                "total_tokens": 1132
+            },
+            "estimated_time_seconds": 0.5544
+        },
+        {
+            "original_id": "NQ1982",
+            "question": "who is jojo in horton hears a who",
+            "model_answer": "Jojo is a small Who child.  In some sources, specifically this source, Jojo is described as a \"very small shirker\".",
+            "token_stats": {
+                "prompt_tokens": 1071,
+                "completion_tokens": 31,
+                "total_tokens": 1102
+            },
+            "estimated_time_seconds": 0.5186
+        },
+        {
+            "original_id": "NQ1260",
+            "question": "what was the main characteristic of post-world war ii american society",
+            "model_answer": "Consumer culture dominated post-World War II American society. Millions of Americans spent heavily on housing, appliances, furniture, clothing and automobiles. ...and they had lots of leisure time. Advertisement played a crucial hegemonic role in shaping this culture.  Also, people started establishing new households and getting married because of the baby boom",
+            "token_stats": {
+                "prompt_tokens": 1051,
+                "completion_tokens": 64,
+                "total_tokens": 1115
+            },
+            "estimated_time_seconds": 0.5048
+        },
+        {
+            "original_id": "NQ1971",
+            "question": "how many rooms is there in buckingham palace",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 953,
+                "completion_tokens": 10,
+                "total_tokens": 963
+            },
+            "estimated_time_seconds": 0.4221
+        },
+        {
+            "original_id": "NQ1180",
+            "question": "where did an independence movement occur because of the congress of vienna",
+            "model_answer": "I can't find information about this specific event in the given text.",
+            "token_stats": {
+                "prompt_tokens": 973,
+                "completion_tokens": 15,
+                "total_tokens": 988
+            },
+            "estimated_time_seconds": 0.4194
+        },
+        {
+            "original_id": "NQ0768",
+            "question": "where was the killing of a sacred deer filmed",
+            "model_answer": "Hatfield House, Hertfordshire; and locations in Utah including Arches National Park, Moab, and others as listed in reference 4.  Also, parts of the film were shot in various places such as Salt Lake City, Provo Canyon, etc.",
+            "token_stats": {
+                "prompt_tokens": 1257,
+                "completion_tokens": 56,
+                "total_tokens": 1313
+            },
+            "estimated_time_seconds": 0.5349
+        },
+        {
+            "original_id": "NQ1852",
+            "question": "who played sarah hedley in when the boat comes in",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1142,
+                "completion_tokens": 10,
+                "total_tokens": 1152
+            },
+            "estimated_time_seconds": 0.4532
+        },
+        {
+            "original_id": "NQ2518",
+            "question": "who is the girl that died in eyes wide shut",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 908,
+                "completion_tokens": 10,
+                "total_tokens": 918
+            },
+            "estimated_time_seconds": 0.3516
+        },
+        {
+            "original_id": "NQ2322",
+            "question": "who named all the animals in the world",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1055,
+                "completion_tokens": 10,
+                "total_tokens": 1065
+            },
+            "estimated_time_seconds": 0.3957
+        },
+        {
+            "original_id": "NQ0415",
+            "question": "who is the actor that plays saul on grace and frankie",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1035,
+                "completion_tokens": 10,
+                "total_tokens": 1045
+            },
+            "estimated_time_seconds": 0.3773
+        },
+        {
+            "original_id": "NQ1409",
+            "question": "who was first governor general of british india",
+            "model_answer": "Lord William Bentinck",
+            "token_stats": {
+                "prompt_tokens": 980,
+                "completion_tokens": 6,
+                "total_tokens": 986
+            },
+            "estimated_time_seconds": 0.3467
+        },
+        {
+            "original_id": "NQ1443",
+            "question": "who plays the woodsman in over the garden wall",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 931,
+                "completion_tokens": 11,
+                "total_tokens": 942
+            },
+            "estimated_time_seconds": 0.3231
+        },
+        {
+            "original_id": "NQ2239",
+            "question": "what kind of dog is charkie from curious george",
+            "model_answer": "Cocker Spaniel.",
+            "token_stats": {
+                "prompt_tokens": 952,
+                "completion_tokens": 6,
+                "total_tokens": 958
+            },
+            "estimated_time_seconds": 0.3207
+        },
+        {
+            "original_id": "NQ2062",
+            "question": "where was the italian episode of everybody loves raymond filmed",
+            "model_answer": "Studio 1 of the Centro Titanus Elios, Settecamini (Rome). Then Theatre 3 of Cinecitta in Rome, Teatro 9, and finally returned to Elios studios. Also mentioned briefly - locations in Malibu, Pasadena and the Pacific Palisades but these seem unrelated",
+            "token_stats": {
+                "prompt_tokens": 1135,
+                "completion_tokens": 64,
+                "total_tokens": 1199
+            },
+            "estimated_time_seconds": 0.3896
+        },
+        {
+            "original_id": "NQ0462",
+            "question": "who sang the song brother let me be your shelter",
+            "model_answer": "I cannot answer based on the provided documents.  ```python",
+            "token_stats": {
+                "prompt_tokens": 1007,
+                "completion_tokens": 13,
+                "total_tokens": 1020
+            },
+            "estimated_time_seconds": 0.3233
+        },
+        {
+            "original_id": "NQ0323",
+            "question": "who does the civil rights act of 1964 protect",
+            "model_answer": "Individuals with respect to their race, color, religion, sex, or national origin.  Additionally, individuals over 40 years old, and those with disabilities.  Also, women regarding maternity leave rights, social security benefits, tax deductions, childcare, education, job training, and reproductive rights.   And voters.",
+            "token_stats": {
+                "prompt_tokens": 910,
+                "completion_tokens": 64,
+                "total_tokens": 974
+            },
+            "estimated_time_seconds": 0.3017
+        },
+        {
+            "original_id": "NQ0262",
+            "question": "who did michael showers play on vampire diaries",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1016,
+                "completion_tokens": 10,
+                "total_tokens": 1026
+            },
+            "estimated_time_seconds": 0.3104
+        },
+        {
+            "original_id": "NQ2216",
+            "question": "who dies at the end of den of thieves",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 948,
+                "completion_tokens": 10,
+                "total_tokens": 958
+            },
+            "estimated_time_seconds": 0.2836
+        },
+        {
+            "original_id": "NQ1801",
+            "question": "distance from one side of a bridge to the other crossword",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 911,
+                "completion_tokens": 10,
+                "total_tokens": 921
+            },
+            "estimated_time_seconds": 0.2672
+        },
+        {
+            "original_id": "NQ1397",
+            "question": "why did kevin can't wait wife leave the show",
+            "model_answer": "She faked her own death.  Later revealed that she wanted to escape her husband and reunite with her family.",
+            "token_stats": {
+                "prompt_tokens": 896,
+                "completion_tokens": 26,
+                "total_tokens": 922
+            },
+            "estimated_time_seconds": 0.2622
+        },
+        {
+            "original_id": "NQ2474",
+            "question": "who did the chiefs play in the playoffs",
+            "model_answer": "I can only find information about one specific instance where the Chiefs played in the playoffs - against the Baltimore Ravens. For another instance, the Chiefs defeated the Jets in the Divisional Playoffs and then defeated the Raiders in the AFL Championship Game.",
+            "token_stats": {
+                "prompt_tokens": 926,
+                "completion_tokens": 49,
+                "total_tokens": 975
+            },
+            "estimated_time_seconds": 0.2716
+        },
+        {
+            "original_id": "NQ1570",
+            "question": "who played the twins in darling buds of may",
+            "model_answer": "Catherine Zeta-Jones and another actress (name missing from reference).",
+            "token_stats": {
+                "prompt_tokens": 979,
+                "completion_tokens": 16,
+                "total_tokens": 995
+            },
+            "estimated_time_seconds": 0.2715
+        },
+        {
+            "original_id": "NQ0847",
+            "question": "where was the movie i am number 4 filmed",
+            "model_answer": "Vandergrift, Pennsylvania; Paradise, Ohio; Monroeville, Pennsylvania; Lancaster Township, Pennsylvania; Big Pine Key, Florida; Florida Keys.  Also, various locations including Jungrau Mountain and the Aletsch Glacier in Switzerland, and near Finse, Norway.   Additionally, some interior scenes were",
+            "token_stats": {
+                "prompt_tokens": 974,
+                "completion_tokens": 64,
+                "total_tokens": 1038
+            },
+            "estimated_time_seconds": 0.2773
+        },
+        {
+            "original_id": "NQ2000",
+            "question": "who sings sugar sugar you are my candy girl",
+            "model_answer": "I cannot answer based on the provided documents.  ### Step 1: Analyze each reference document separately to find any mention of the phrase \"you are my candy girl.\"",
+            "token_stats": {
+                "prompt_tokens": 1069,
+                "completion_tokens": 35,
+                "total_tokens": 1104
+            },
+            "estimated_time_seconds": 0.2885
+        },
+        {
+            "original_id": "NQ2206",
+            "question": "when did the first pokemon game come out",
+            "model_answer": "1996 in Japan for the Game Boy.  Later changed to worldwide release in 1998.  Initially released as \"Pokémon Red\" and \"Pokémon Green\" in Japan, then as \"Pokémon Red\" and \"Pokémon Blue\" internationally.  The original \"Green\" version was only released",
+            "token_stats": {
+                "prompt_tokens": 1075,
+                "completion_tokens": 64,
+                "total_tokens": 1139
+            },
+            "estimated_time_seconds": 0.2912
+        },
+        {
+            "original_id": "NQ0707",
+            "question": "industrial city in germany on the rhine herne canal",
+            "model_answer": "Bottrop, Herne, or any other city that can be inferred from the text does not match exactly the description given in the reference.",
+            "token_stats": {
+                "prompt_tokens": 1052,
+                "completion_tokens": 29,
+                "total_tokens": 1081
+            },
+            "estimated_time_seconds": 0.2707
+        },
+        {
+            "original_id": "NQ0295",
+            "question": "who plays the beast on the new beauty and the beast",
+            "model_answer": "Dan Stevens or Robby Benson does not match this description; however, according to one reference, there is another movie called 'Beauty and the Beast' which has no relation to our topic but it mentions about a man named Robby Benson who voiced the character of Beast in the original animation.",
+            "token_stats": {
+                "prompt_tokens": 1023,
+                "completion_tokens": 59,
+                "total_tokens": 1082
+            },
+            "estimated_time_seconds": 0.2655
+        },
+        {
+            "original_id": "NQ1507",
+            "question": "what is the real name of our sun",
+            "model_answer": "Sol.  or alternatively, the Sun.   (both answers can be derived from different parts of the reference).",
+            "token_stats": {
+                "prompt_tokens": 1074,
+                "completion_tokens": 24,
+                "total_tokens": 1098
+            },
+            "estimated_time_seconds": 0.2641
+        },
+        {
+            "original_id": "NQ2664",
+            "question": "when does the next season of wynonna earp start",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1102,
+                "completion_tokens": 10,
+                "total_tokens": 1112
+            },
+            "estimated_time_seconds": 0.2622
+        },
+        {
+            "original_id": "NQ0387",
+            "question": "when does the new season of are you the one come on",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 997,
+                "completion_tokens": 10,
+                "total_tokens": 1007
+            },
+            "estimated_time_seconds": 0.2332
+        },
+        {
+            "original_id": "NQ2094",
+            "question": "which came first the walking dead comic or show",
+            "model_answer": "The Walking Dead comic.",
+            "token_stats": {
+                "prompt_tokens": 949,
+                "completion_tokens": 6,
+                "total_tokens": 955
+            },
+            "estimated_time_seconds": 0.2176
+        },
+        {
+            "original_id": "NQ2781",
+            "question": "when was the book pride and prejudice written",
+            "model_answer": "1813 (as First Impressions) / revised version published in January 1813.  Also known as a revision of \"First Impressions\".  A deluxe edition was later released in October 2009.",
+            "token_stats": {
+                "prompt_tokens": 1031,
+                "completion_tokens": 45,
+                "total_tokens": 1076
+            },
+            "estimated_time_seconds": 0.2407
+        },
+        {
+            "original_id": "NQ0487",
+            "question": "at what age are you no longer a toddler",
+            "model_answer": "36 months (or older) according to reference 1.",
+            "token_stats": {
+                "prompt_tokens": 889,
+                "completion_tokens": 14,
+                "total_tokens": 903
+            },
+            "estimated_time_seconds": 0.199
+        },
+        {
+            "original_id": "NQ0920",
+            "question": "when was the movie cool hand luke made",
+            "model_answer": "1967.   or 1967 according to multiple sources.",
+            "token_stats": {
+                "prompt_tokens": 1099,
+                "completion_tokens": 15,
+                "total_tokens": 1114
+            },
+            "estimated_time_seconds": 0.241
+        },
+        {
+            "original_id": "NQ2610",
+            "question": "what is the highest peak in the ozarks",
+            "model_answer": "Buffalo Lookout (located in the Boston Mountains) however according to another reference, Mt. Magazine is stated to be the highest peak in the Ozarks.",
+            "token_stats": {
+                "prompt_tokens": 902,
+                "completion_tokens": 32,
+                "total_tokens": 934
+            },
+            "estimated_time_seconds": 0.199
+        },
+        {
+            "original_id": "NQ2816",
+            "question": "who plays the voice of chucky in seed of chucky",
+            "model_answer": "Brad Dourif.  Bookmark and Share",
+            "token_stats": {
+                "prompt_tokens": 1105,
+                "completion_tokens": 10,
+                "total_tokens": 1115
+            },
+            "estimated_time_seconds": 0.2334
+        },
+        {
+            "original_id": "NQ0930",
+            "question": "who helped the british in the french and indian war",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 959,
+                "completion_tokens": 10,
+                "total_tokens": 969
+            },
+            "estimated_time_seconds": 0.1998
+        },
+        {
+            "original_id": "NQ2737",
+            "question": "when did the sims 4 toddlers come out",
+            "model_answer": "January 12, 2017.",
+            "token_stats": {
+                "prompt_tokens": 955,
+                "completion_tokens": 9,
+                "total_tokens": 964
+            },
+            "estimated_time_seconds": 0.1958
+        },
+        {
+            "original_id": "NQ1793",
+            "question": "who played david on the assassination of gianni versace",
+            "model_answer": "Cody Fern.  .  .   .    .     .      .       .        .         .          .           .            .             .              .               .                .                 .                  .                   .                    .                     .                      .                       .                        .                          .                           .                             .                               .                                 .                                   .",
+            "token_stats": {
+                "prompt_tokens": 1157,
+                "completion_tokens": 64,
+                "total_tokens": 1221
+            },
+            "estimated_time_seconds": 0.2435
+        },
+        {
+            "original_id": "NQ0870",
+            "question": "what emperor took over france after the reign of terror",
+            "model_answer": "Napoleon.",
+            "token_stats": {
+                "prompt_tokens": 1024,
+                "completion_tokens": 3,
+                "total_tokens": 1027
+            },
+            "estimated_time_seconds": 0.2017
+        },
+        {
+            "original_id": "NQ2292",
+            "question": "when did the us not go to the olympics",
+            "model_answer": "1980 Summer Olympics.  Also 1976 Montreal and 1984 Los Angeles Games (Libya and Ethiopia), 1940 and 1944 (World War II).  And 1916 (World War I) .",
+            "token_stats": {
+                "prompt_tokens": 1009,
+                "completion_tokens": 50,
+                "total_tokens": 1059
+            },
+            "estimated_time_seconds": 0.2048
+        },
+        {
+            "original_id": "NQ2213",
+            "question": "where does the un security council get troops for military actions",
+            "model_answer": "Member countries contribute troops.",
+            "token_stats": {
+                "prompt_tokens": 971,
+                "completion_tokens": 6,
+                "total_tokens": 977
+            },
+            "estimated_time_seconds": 0.1863
+        },
+        {
+            "original_id": "NQ1433",
+            "question": "who wrote if i were a boy reba or beyonce",
+            "model_answer": "BC Jean and Toby Gad.",
+            "token_stats": {
+                "prompt_tokens": 1045,
+                "completion_tokens": 7,
+                "total_tokens": 1052
+            },
+            "estimated_time_seconds": 0.1976
+        },
+        {
+            "original_id": "NQ2165",
+            "question": "where is the meridian that is opposite the prime meridian located",
+            "model_answer": "near the International Date Line, approximately 180° longitude.  Also, according to reference \"The 180th meridian\" - starting at the North Pole and heading south to the South Pole, the 180th meridian passes through: ...and so on.",
+            "token_stats": {
+                "prompt_tokens": 1033,
+                "completion_tokens": 55,
+                "total_tokens": 1088
+            },
+            "estimated_time_seconds": 0.2012
+        },
+        {
+            "original_id": "NQ0613",
+            "question": "where was the first season of slasher filmed",
+            "model_answer": "Between July and October 2015 in Sudbury, Parry Sound, and Sault Ste. Marie.  Also three Northern Ontario municipalities stood in for the show's fictitious location, the town of Waterbury.   Specifically, these locations included the cities of Sudbury and Sault Ste. Marie and the town",
+            "token_stats": {
+                "prompt_tokens": 1063,
+                "completion_tokens": 64,
+                "total_tokens": 1127
+            },
+            "estimated_time_seconds": 0.2052
+        },
+        {
+            "original_id": "NQ1824",
+            "question": "who is the sixth president of the united states",
+            "model_answer": "John Quincy Adams.  Also see \"Presidency of John Quincy Adams\" and \"Inauguration of John Quincy Adams\".",
+            "token_stats": {
+                "prompt_tokens": 1108,
+                "completion_tokens": 26,
+                "total_tokens": 1134
+            },
+            "estimated_time_seconds": 0.2033
+        },
+        {
+            "original_id": "NQ0461",
+            "question": "when is the strictly come dancing results show recorded",
+            "model_answer": "After the live show.  Directly afterwards.  At 19:00.",
+            "token_stats": {
+                "prompt_tokens": 1001,
+                "completion_tokens": 18,
+                "total_tokens": 1019
+            },
+            "estimated_time_seconds": 0.1802
+        },
+        {
+            "original_id": "NQ0746",
+            "question": "who did the music for your lie in april",
+            "model_answer": "Masaru Yokoyama, Goose House, wacci, Coalamode, 7!!, Ikimono-gakari, etc.",
+            "token_stats": {
+                "prompt_tokens": 1080,
+                "completion_tokens": 29,
+                "total_tokens": 1109
+            },
+            "estimated_time_seconds": 0.1933
+        },
+        {
+            "original_id": "NQ2444",
+            "question": "when was the internet introduced to the public",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1024,
+                "completion_tokens": 10,
+                "total_tokens": 1034
+            },
+            "estimated_time_seconds": 0.1778
+        },
+        {
+            "original_id": "NQ1753",
+            "question": "how much for a passport in the philippines",
+            "model_answer": "950 pesos ($18) for regular processing, 1,200 pesos ($24) for rush processing.",
+            "token_stats": {
+                "prompt_tokens": 1102,
+                "completion_tokens": 23,
+                "total_tokens": 1125
+            },
+            "estimated_time_seconds": 0.1907
+        },
+        {
+            "original_id": "NQ0985",
+            "question": "where was the first session of the assam association held in1905",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 972,
+                "completion_tokens": 10,
+                "total_tokens": 982
+            },
+            "estimated_time_seconds": 0.1644
+        },
+        {
+            "original_id": "NQ1259",
+            "question": "who makes the important government decisions in an autocracy",
+            "model_answer": "One person, whose decisions are subject to neither external legal restraints nor regularized mechanisms of popular control.  except perhaps for the implicit threat of a coup d'état or mass insurrection.",
+            "token_stats": {
+                "prompt_tokens": 1001,
+                "completion_tokens": 40,
+                "total_tokens": 1041
+            },
+            "estimated_time_seconds": 0.172
+        },
+        {
+            "original_id": "NQ0817",
+            "question": "who plays stacey's mum in gavin and stacey",
+            "model_answer": "Melanie Walters.  ...more",
+            "token_stats": {
+                "prompt_tokens": 1098,
+                "completion_tokens": 7,
+                "total_tokens": 1105
+            },
+            "estimated_time_seconds": 0.1801
+        },
+        {
+            "original_id": "NQ0194",
+            "question": "abbreviated name of the highest peak in tasmania",
+            "model_answer": "Mount Ossa.",
+            "token_stats": {
+                "prompt_tokens": 987,
+                "completion_tokens": 5,
+                "total_tokens": 992
+            },
+            "estimated_time_seconds": 0.1597
+        },
+        {
+            "original_id": "NQ2603",
+            "question": "when does the turn of the screw take place",
+            "model_answer": "1840s (in the original), 1920s (in the 2009 adaptation)",
+            "token_stats": {
+                "prompt_tokens": 914,
+                "completion_tokens": 22,
+                "total_tokens": 936
+            },
+            "estimated_time_seconds": 0.149
+        },
+        {
+            "original_id": "NQ2069",
+            "question": "who won the fifth season of america's got talent",
+            "model_answer": "Michael Grimm.  Jackie Evancho came second.",
+            "token_stats": {
+                "prompt_tokens": 976,
+                "completion_tokens": 12,
+                "total_tokens": 988
+            },
+            "estimated_time_seconds": 0.1555
+        },
+        {
+            "original_id": "NQ0268",
+            "question": "where did the ancestors of the domestic goat originate",
+            "model_answer": "The Zagros Mountains.",
+            "token_stats": {
+                "prompt_tokens": 1104,
+                "completion_tokens": 6,
+                "total_tokens": 1110
+            },
+            "estimated_time_seconds": 0.1724
+        },
+        {
+            "original_id": "NQ2524",
+            "question": "what are the colors of the netherlands flag",
+            "model_answer": "Red, White, Blue.  or alternatively: Red, white and blue.",
+            "token_stats": {
+                "prompt_tokens": 891,
+                "completion_tokens": 17,
+                "total_tokens": 908
+            },
+            "estimated_time_seconds": 0.1395
+        },
+        {
+            "original_id": "NQ1050",
+            "question": "when did teenage mutant ninja turtles come out",
+            "model_answer": "1984",
+            "token_stats": {
+                "prompt_tokens": 985,
+                "completion_tokens": 4,
+                "total_tokens": 989
+            },
+            "estimated_time_seconds": 0.1503
+        },
+        {
+            "original_id": "NQ2065",
+            "question": "who picks the chief justice of the illinois supreme court",
+            "model_answer": "The justices of the Supreme Court elect the chief justice among themselves for a three-year term.  In addition, according to another reference, Circuit judges in a circuit elect one of their members to serve as chief judge of the circuit court.",
+            "token_stats": {
+                "prompt_tokens": 876,
+                "completion_tokens": 48,
+                "total_tokens": 924
+            },
+            "estimated_time_seconds": 0.1389
+        },
+        {
+            "original_id": "NQ1748",
+            "question": "how many breeds of pigs are there in the uk",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 974,
+                "completion_tokens": 10,
+                "total_tokens": 984
+            },
+            "estimated_time_seconds": 0.1463
+        },
+        {
+            "original_id": "NQ2211",
+            "question": "when did the wall go up in east germany",
+            "model_answer": "13 August 1961.",
+            "token_stats": {
+                "prompt_tokens": 916,
+                "completion_tokens": 8,
+                "total_tokens": 924
+            },
+            "estimated_time_seconds": 0.136
+        },
+        {
+            "original_id": "NQ1836",
+            "question": "who negotiated an agreement with japan concerning the future of korea",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1053,
+                "completion_tokens": 10,
+                "total_tokens": 1063
+            },
+            "estimated_time_seconds": 0.1546
+        },
+        {
+            "original_id": "NQ2730",
+            "question": "who sings find out who your friends are with tracy lawrence",
+            "model_answer": "Tim McGraw and Kenny Chesney.  (",
+            "token_stats": {
+                "prompt_tokens": 1004,
+                "completion_tokens": 11,
+                "total_tokens": 1015
+            },
+            "estimated_time_seconds": 0.146
+        },
+        {
+            "original_id": "NQ1313",
+            "question": "where did they film woody the woodpecker movie",
+            "model_answer": "They filmed in Canada and in the Pine Grove forest in Washington state.  Also, according to one source, some scenes may have been filmed on the MGM lot in Culver City, California.",
+            "token_stats": {
+                "prompt_tokens": 1098,
+                "completion_tokens": 40,
+                "total_tokens": 1138
+            },
+            "estimated_time_seconds": 0.1617
+        },
+        {
+            "original_id": "NQ0821",
+            "question": "dendrites and cell bodies are components of what type of matter found in the brain",
+            "model_answer": "grey matter.",
+            "token_stats": {
+                "prompt_tokens": 1020,
+                "completion_tokens": 4,
+                "total_tokens": 1024
+            },
+            "estimated_time_seconds": 0.1439
+        },
+        {
+            "original_id": "NQ2282",
+            "question": "when did they stop cigarette advertising on television",
+            "model_answer": "On or about January 2, 1971.",
+            "token_stats": {
+                "prompt_tokens": 1033,
+                "completion_tokens": 13,
+                "total_tokens": 1046
+            },
+            "estimated_time_seconds": 0.1454
+        },
+        {
+            "original_id": "NQ0640",
+            "question": "when did the philadelphia eagles play in the super bowl last",
+            "model_answer": "2018.",
+            "token_stats": {
+                "prompt_tokens": 983,
+                "completion_tokens": 5,
+                "total_tokens": 988
+            },
+            "estimated_time_seconds": 0.1359
+        },
+        {
+            "original_id": "NQ0041",
+            "question": "who did the dominican republic gain its independence from",
+            "model_answer": "Haiti and then regained it from Spain.",
+            "token_stats": {
+                "prompt_tokens": 1018,
+                "completion_tokens": 9,
+                "total_tokens": 1027
+            },
+            "estimated_time_seconds": 0.1398
+        },
+        {
+            "original_id": "NQ1309",
+            "question": "who plays yoda in revenge of the sith",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1108,
+                "completion_tokens": 10,
+                "total_tokens": 1118
+            },
+            "estimated_time_seconds": 0.1505
+        },
+        {
+            "original_id": "NQ2454",
+            "question": "the concept of micro financing was developed by who in 1976",
+            "model_answer": "Muhammad Yunus, independently of Lysander Spooner and Friedrich Wilhelm Raiffeisen.  Answer: Muhammad Yunus.",
+            "token_stats": {
+                "prompt_tokens": 961,
+                "completion_tokens": 26,
+                "total_tokens": 987
+            },
+            "estimated_time_seconds": 0.1315
+        },
+        {
+            "original_id": "NQ0287",
+            "question": "what is the big gold dome in jerusalem",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 940,
+                "completion_tokens": 10,
+                "total_tokens": 950
+            },
+            "estimated_time_seconds": 0.1254
+        },
+        {
+            "original_id": "NQ0721",
+            "question": "when is last time the astros won the world series",
+            "model_answer": "2017.",
+            "token_stats": {
+                "prompt_tokens": 993,
+                "completion_tokens": 5,
+                "total_tokens": 998
+            },
+            "estimated_time_seconds": 0.1304
+        },
+        {
+            "original_id": "NQ2199",
+            "question": "who came out first batman or spider man",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 945,
+                "completion_tokens": 10,
+                "total_tokens": 955
+            },
+            "estimated_time_seconds": 0.1237
+        },
+        {
+            "original_id": "ASQA667",
+            "question": "When did the knicks win their last championship?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 958,
+                "completion_tokens": 10,
+                "total_tokens": 968
+            },
+            "estimated_time_seconds": 0.1242
+        },
+        {
+            "original_id": "ASQA702",
+            "question": "Who has scored most own goals in premier league?",
+            "model_answer": "I cannot answer based on the provided documents.  ### Step 1",
+            "token_stats": {
+                "prompt_tokens": 1024,
+                "completion_tokens": 15,
+                "total_tokens": 1039
+            },
+            "estimated_time_seconds": 0.1319
+        },
+        {
+            "original_id": "ASQA441",
+            "question": "Who defeated the new york jets on the first televised monday night football game?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1035,
+                "completion_tokens": 10,
+                "total_tokens": 1045
+            },
+            "estimated_time_seconds": 0.1314
+        },
+        {
+            "original_id": "ASQA523",
+            "question": "Who played the admiral on star trek discovery?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1082,
+                "completion_tokens": 10,
+                "total_tokens": 1092
+            },
+            "estimated_time_seconds": 0.1359
+        },
+        {
+            "original_id": "ASQA511",
+            "question": "Who won 1st medal in asian games 2018 for india?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1241,
+                "completion_tokens": 10,
+                "total_tokens": 1251
+            },
+            "estimated_time_seconds": 0.1539
+        },
+        {
+            "original_id": "ASQA343",
+            "question": "When did they start filming guardians of the galaxy?",
+            "model_answer": "February 2016.  Also principal photography began in February 2016 at Pinewood Atlanta Studios in Fayette County, Georgia.",
+            "token_stats": {
+                "prompt_tokens": 917,
+                "completion_tokens": 27,
+                "total_tokens": 944
+            },
+            "estimated_time_seconds": 0.1151
+        },
+        {
+            "original_id": "ASQA592",
+            "question": "Where was snow white and the hunts man filmed?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 955,
+                "completion_tokens": 10,
+                "total_tokens": 965
+            },
+            "estimated_time_seconds": 0.1166
+        },
+        {
+            "original_id": "ASQA139",
+            "question": "Who came up with a cure for tuberculosis?",
+            "model_answer": "Robert Koch, Fritz Weleminsky, Selman Waksman, Corwin Hinshaw, William Feldman, and others mentioned in the text.",
+            "token_stats": {
+                "prompt_tokens": 1157,
+                "completion_tokens": 32,
+                "total_tokens": 1189
+            },
+            "estimated_time_seconds": 0.1422
+        },
+        {
+            "original_id": "ASQA595",
+            "question": "Why did the roman catholic and eastern orthodox split?",
+            "model_answer": "Papal supremacy, exclusion of the Eastern half in regard to Papacy approvals, the filioque clause, and cultural and linguistic differences between Latins and Greeks.  Answer: Also, there were political factors of both Church and state, and by the patriarchs' disagreement over who should lead the Christian world. Answer",
+            "token_stats": {
+                "prompt_tokens": 919,
+                "completion_tokens": 64,
+                "total_tokens": 983
+            },
+            "estimated_time_seconds": 0.1165
+        },
+        {
+            "original_id": "ASQA043",
+            "question": "When did alabama became a right to work state?",
+            "model_answer": "1976, 2001.",
+            "token_stats": {
+                "prompt_tokens": 966,
+                "completion_tokens": 9,
+                "total_tokens": 975
+            },
+            "estimated_time_seconds": 0.1146
+        },
+        {
+            "original_id": "ASQA551",
+            "question": "What was the owls name in mr rogers?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1035,
+                "completion_tokens": 10,
+                "total_tokens": 1045
+            },
+            "estimated_time_seconds": 0.1217
+        },
+        {
+            "original_id": "ASQA634",
+            "question": "What is the airport code for negril jamaica?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1051,
+                "completion_tokens": 10,
+                "total_tokens": 1061
+            },
+            "estimated_time_seconds": 0.1224
+        },
+        {
+            "original_id": "ASQA218",
+            "question": "What is the last episode of soul eater?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1040,
+                "completion_tokens": 10,
+                "total_tokens": 1050
+            },
+            "estimated_time_seconds": 0.12
+        },
+        {
+            "original_id": "ASQA461",
+            "question": "Who did kyle play in little house on the prairie?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1037,
+                "completion_tokens": 10,
+                "total_tokens": 1047
+            },
+            "estimated_time_seconds": 0.1186
+        },
+        {
+            "original_id": "ASQA381",
+            "question": "Where is the ferris wheel located in myrtle beach?",
+            "model_answer": "On the boardwalk.",
+            "token_stats": {
+                "prompt_tokens": 932,
+                "completion_tokens": 6,
+                "total_tokens": 938
+            },
+            "estimated_time_seconds": 0.1054
+        },
+        {
+            "original_id": "ASQA301",
+            "question": "When did the federal student loan program start?",
+            "model_answer": "1965.",
+            "token_stats": {
+                "prompt_tokens": 974,
+                "completion_tokens": 5,
+                "total_tokens": 979
+            },
+            "estimated_time_seconds": 0.1091
+        },
+        {
+            "original_id": "ASQA630",
+            "question": "Who was the first person who discovered electricity?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1067,
+                "completion_tokens": 10,
+                "total_tokens": 1077
+            },
+            "estimated_time_seconds": 0.119
+        },
+        {
+            "original_id": "ASQA144",
+            "question": "Who's won the most premierships in afl?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 949,
+                "completion_tokens": 10,
+                "total_tokens": 959
+            },
+            "estimated_time_seconds": 0.1051
+        },
+        {
+            "original_id": "ASQA642",
+            "question": "Who is the mayor of warner robins ga?",
+            "model_answer": "I cannot answer based on the provided documents.  .",
+            "token_stats": {
+                "prompt_tokens": 1086,
+                "completion_tokens": 12,
+                "total_tokens": 1098
+            },
+            "estimated_time_seconds": 0.1192
+        },
+        {
+            "original_id": "ASQA064",
+            "question": "Who wrote brown eyes by destiny's child?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 992,
+                "completion_tokens": 10,
+                "total_tokens": 1002
+            },
+            "estimated_time_seconds": 0.1079
+        },
+        {
+            "original_id": "ASQA676",
+            "question": "What is it called when you mix up the letters of a word?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 966,
+                "completion_tokens": 10,
+                "total_tokens": 976
+            },
+            "estimated_time_seconds": 0.1043
+        },
+        {
+            "original_id": "ASQA894",
+            "question": "Name of first episode of this is us?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1164,
+                "completion_tokens": 11,
+                "total_tokens": 1175
+            },
+            "estimated_time_seconds": 0.1244
+        },
+        {
+            "original_id": "ASQA113",
+            "question": "How long is a rainbow six siege game?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 918,
+                "completion_tokens": 10,
+                "total_tokens": 928
+            },
+            "estimated_time_seconds": 0.0975
+        },
+        {
+            "original_id": "ASQA364",
+            "question": "When is the new henry danger coming on?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1063,
+                "completion_tokens": 10,
+                "total_tokens": 1073
+            },
+            "estimated_time_seconds": 0.1118
+        },
+        {
+            "original_id": "ASQA289",
+            "question": "Who plays the daughter in garage sale mysteries?",
+            "model_answer": "There isn't any information about this character or person in the provided references.",
+            "token_stats": {
+                "prompt_tokens": 1100,
+                "completion_tokens": 16,
+                "total_tokens": 1116
+            },
+            "estimated_time_seconds": 0.1153
+        },
+        {
+            "original_id": "ASQA726",
+            "question": "When did new south wales last win the state of origin?",
+            "model_answer": "2014.",
+            "token_stats": {
+                "prompt_tokens": 940,
+                "completion_tokens": 5,
+                "total_tokens": 945
+            },
+            "estimated_time_seconds": 0.0969
+        },
+        {
+            "original_id": "ASQA205",
+            "question": "Where did peanut butter and jelly time come from?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1128,
+                "completion_tokens": 10,
+                "total_tokens": 1138
+            },
+            "estimated_time_seconds": 0.1157
+        },
+        {
+            "original_id": "ASQA417",
+            "question": "What kind of car was ramone from cars?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 962,
+                "completion_tokens": 10,
+                "total_tokens": 972
+            },
+            "estimated_time_seconds": 0.0981
+        },
+        {
+            "original_id": "ASQA354",
+            "question": "What is the name of zobo in english?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1081,
+                "completion_tokens": 10,
+                "total_tokens": 1091
+            },
+            "estimated_time_seconds": 0.1092
+        },
+        {
+            "original_id": "ASQA711",
+            "question": "Who was the first european to discover the mississippi river?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 973,
+                "completion_tokens": 10,
+                "total_tokens": 983
+            },
+            "estimated_time_seconds": 0.0976
+        },
+        {
+            "original_id": "ASQA017",
+            "question": "When did the voortrekkers arrive in south africa?",
+            "model_answer": "Between 1835 and 1854.",
+            "token_stats": {
+                "prompt_tokens": 1036,
+                "completion_tokens": 10,
+                "total_tokens": 1046
+            },
+            "estimated_time_seconds": 0.1031
+        },
+        {
+            "original_id": "ASQA747",
+            "question": "When was the last world cup that brazil won?",
+            "model_answer": "2002.  Also 1970, 1994.   And 1958.    And 1962.     And 2019 is not mentioned anywhere in the text, therefore we can assume that there might be another year missing from the given options.",
+            "token_stats": {
+                "prompt_tokens": 953,
+                "completion_tokens": 56,
+                "total_tokens": 1009
+            },
+            "estimated_time_seconds": 0.0987
+        },
+        {
+            "original_id": "ASQA087",
+            "question": "Where did they film the movie in the heat of the night?",
+            "model_answer": "None of these sources mention where they filmed the movie 'In the Heat of the Night'.",
+            "token_stats": {
+                "prompt_tokens": 970,
+                "completion_tokens": 19,
+                "total_tokens": 989
+            },
+            "estimated_time_seconds": 0.0961
+        },
+        {
+            "original_id": "ASQA429",
+            "question": "When did the beatles play at the cow palace?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 966,
+                "completion_tokens": 10,
+                "total_tokens": 976
+            },
+            "estimated_time_seconds": 0.0941
+        },
+        {
+            "original_id": "ASQA099",
+            "question": "Who won the final hoh big brother 20?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1040,
+                "completion_tokens": 10,
+                "total_tokens": 1050
+            },
+            "estimated_time_seconds": 0.1005
+        },
+        {
+            "original_id": "ASQA609",
+            "question": "Who has the most home runs in the mlb in 2018?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1010,
+                "completion_tokens": 10,
+                "total_tokens": 1020
+            },
+            "estimated_time_seconds": 0.0969
+        },
+        {
+            "original_id": "ASQA788",
+            "question": "When did jackie robinson retire from the brooklyn dodgers?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 963,
+                "completion_tokens": 10,
+                "total_tokens": 973
+            },
+            "estimated_time_seconds": 0.0918
+        },
+        {
+            "original_id": "ASQA903",
+            "question": "Where did the bay of pigs take place?",
+            "model_answer": "Southern coast of Cuba.  Inlet of the Gulf of Cazones.  Located on the southern coast of Cuba.  In Santa Clara Province, later changed to several different provinces.   More than once.  Also known as the site where former Cuban president Fidel Castro owned a private island.  And the",
+            "token_stats": {
+                "prompt_tokens": 1118,
+                "completion_tokens": 64,
+                "total_tokens": 1182
+            },
+            "estimated_time_seconds": 0.1106
+        },
+        {
+            "original_id": "ASQA152",
+            "question": "When did england last make the quarter final of the world cup?",
+            "model_answer": "2006",
+            "token_stats": {
+                "prompt_tokens": 989,
+                "completion_tokens": 4,
+                "total_tokens": 993
+            },
+            "estimated_time_seconds": 0.0923
+        },
+        {
+            "original_id": "ASQA915",
+            "question": "How many mlb players are in the hall of fame?",
+            "model_answer": "226.",
+            "token_stats": {
+                "prompt_tokens": 1000,
+                "completion_tokens": 4,
+                "total_tokens": 1004
+            },
+            "estimated_time_seconds": 0.0926
+        },
+        {
+            "original_id": "ASQA380",
+            "question": "When did jeep start making 4 door wranglers?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1096,
+                "completion_tokens": 10,
+                "total_tokens": 1106
+            },
+            "estimated_time_seconds": 0.1013
+        },
+        {
+            "original_id": "ASQA916",
+            "question": "Who warned the colonists that the british were coming?",
+            "model_answer": "There is no information available regarding someone specifically warning the colonists that the British were coming.",
+            "token_stats": {
+                "prompt_tokens": 1021,
+                "completion_tokens": 19,
+                "total_tokens": 1040
+            },
+            "estimated_time_seconds": 0.0945
+        },
+        {
+            "original_id": "ASQA936",
+            "question": "When is season 3 of 800 words coming out?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1157,
+                "completion_tokens": 10,
+                "total_tokens": 1167
+            },
+            "estimated_time_seconds": 0.1052
+        },
+        {
+            "original_id": "ASQA071",
+            "question": "Where is the minnehaha academy located in minneapolis?",
+            "model_answer": "Minneapolis, Minnesota, on the banks of the Mississippi River.  More specifically, there are two campuses - one at the south side for preschool through 8th graders, and another north campus for 9th through 12th graders.   Both campuses are located near the cooper and hiawatha neighborhoods on",
+            "token_stats": {
+                "prompt_tokens": 995,
+                "completion_tokens": 64,
+                "total_tokens": 1059
+            },
+            "estimated_time_seconds": 0.0948
+        },
+        {
+            "original_id": "ASQA048",
+            "question": "Who plays the superintendent in doctor blake mysteries?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1045,
+                "completion_tokens": 10,
+                "total_tokens": 1055
+            },
+            "estimated_time_seconds": 0.0938
+        },
+        {
+            "original_id": "ASQA663",
+            "question": "When was the last time uc made the sweet 16?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 972,
+                "completion_tokens": 10,
+                "total_tokens": 982
+            },
+            "estimated_time_seconds": 0.0867
+        },
+        {
+            "original_id": "ASQA919",
+            "question": "Who is the mc of the nfl honors?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1479,
+                "completion_tokens": 10,
+                "total_tokens": 1489
+            },
+            "estimated_time_seconds": 0.1302
+        },
+        {
+            "original_id": "ASQA861",
+            "question": "How many times is the f word used in scarface?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1042,
+                "completion_tokens": 10,
+                "total_tokens": 1052
+            },
+            "estimated_time_seconds": 0.0914
+        },
+        {
+            "original_id": "ASQA211",
+            "question": "Who won the best actor award for the oscars?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 924,
+                "completion_tokens": 10,
+                "total_tokens": 934
+            },
+            "estimated_time_seconds": 0.0806
+        },
+        {
+            "original_id": "ASQA299",
+            "question": "When did bruce springsteen play the super bowl?",
+            "model_answer": "I cannot answer based on the provided documents.  ```python",
+            "token_stats": {
+                "prompt_tokens": 965,
+                "completion_tokens": 13,
+                "total_tokens": 978
+            },
+            "estimated_time_seconds": 0.0839
+        },
+        {
+            "original_id": "ASQA869",
+            "question": "Who was the lead actor in movie toile ek prem katha?",
+            "model_answer": "Akshay Kumar.",
+            "token_stats": {
+                "prompt_tokens": 1078,
+                "completion_tokens": 6,
+                "total_tokens": 1084
+            },
+            "estimated_time_seconds": 0.0923
+        },
+        {
+            "original_id": "ASQA128",
+            "question": "Who acted as harley quinn in suicide squad?",
+            "model_answer": "Margot Robbie.",
+            "token_stats": {
+                "prompt_tokens": 1064,
+                "completion_tokens": 5,
+                "total_tokens": 1069
+            },
+            "estimated_time_seconds": 0.0904
+        },
+        {
+            "original_id": "ASQA570",
+            "question": "When was the last person executed in canada?",
+            "model_answer": "December 11, 1962.  Answer: I cannot answer based on the provided documents. No, this is incorrect.",
+            "token_stats": {
+                "prompt_tokens": 966,
+                "completion_tokens": 27,
+                "total_tokens": 993
+            },
+            "estimated_time_seconds": 0.0835
+        },
+        {
+            "original_id": "ASQA767",
+            "question": "What other kingdom claimed ownership of the northern islands of scotland?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 905,
+                "completion_tokens": 10,
+                "total_tokens": 915
+            },
+            "estimated_time_seconds": 0.0765
+        },
+        {
+            "original_id": "ASQA374",
+            "question": "When did the song stayin alive come out?",
+            "model_answer": "13 December 1977.  Answer should only include date.",
+            "token_stats": {
+                "prompt_tokens": 904,
+                "completion_tokens": 15,
+                "total_tokens": 919
+            },
+            "estimated_time_seconds": 0.0764
+        },
+        {
+            "original_id": "ASQA033",
+            "question": "Who beat villanova last year in the ncaa tournament?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1112,
+                "completion_tokens": 10,
+                "total_tokens": 1122
+            },
+            "estimated_time_seconds": 0.0926
+        },
+        {
+            "original_id": "ASQA540",
+            "question": "When did the byzantine empire start to decline?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 976,
+                "completion_tokens": 10,
+                "total_tokens": 986
+            },
+            "estimated_time_seconds": 0.0809
+        },
+        {
+            "original_id": "ASQA518",
+            "question": "When did the song angel first come out?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 940,
+                "completion_tokens": 10,
+                "total_tokens": 950
+            },
+            "estimated_time_seconds": 0.0775
+        },
+        {
+            "original_id": "ASQA264",
+            "question": "Where is the golden state warriors located at?",
+            "model_answer": "Oakland, California; they will move to San Francisco or other location in future but this information is not available in given text.",
+            "token_stats": {
+                "prompt_tokens": 1000,
+                "completion_tokens": 26,
+                "total_tokens": 1026
+            },
+            "estimated_time_seconds": 0.0831
+        },
+        {
+            "original_id": "ASQA105",
+            "question": "What did king john do to kenilworth castle?",
+            "model_answer": "Built the outer bailey wall in stone, improved the other defences, including creating Mortimer's and Lunn's Towers, and significantly improved the castle's water defences by damming the Finham and Inchford Brooks, creating the Great Mere. Spent £1,115 on the castle between 121",
+            "token_stats": {
+                "prompt_tokens": 965,
+                "completion_tokens": 64,
+                "total_tokens": 1029
+            },
+            "estimated_time_seconds": 0.0829
+        },
+        {
+            "original_id": "ASQA851",
+            "question": "How many starbucks are there around the world?",
+            "model_answer": "28,218.",
+            "token_stats": {
+                "prompt_tokens": 1122,
+                "completion_tokens": 6,
+                "total_tokens": 1128
+            },
+            "estimated_time_seconds": 0.0902
+        },
+        {
+            "original_id": "ASQA524",
+            "question": "Record for three pointers in a game ncaa?",
+            "model_answer": "15, held by Keith Veney among others. 10, achieved by Nicole Corriero. 11, no information about such record exists in the given text.",
+            "token_stats": {
+                "prompt_tokens": 1070,
+                "completion_tokens": 36,
+                "total_tokens": 1106
+            },
+            "estimated_time_seconds": 0.0879
+        },
+        {
+            "original_id": "ASQA229",
+            "question": "Who did francis ouimet beat in the us open?",
+            "model_answer": "Harry Vardon and Ted Ray.  They were both British.",
+            "token_stats": {
+                "prompt_tokens": 1072,
+                "completion_tokens": 15,
+                "total_tokens": 1087
+            },
+            "estimated_time_seconds": 0.0858
+        },
+        {
+            "original_id": "ASQA049",
+            "question": "Who said it is a tale told by an idiot full of sound and fury?",
+            "model_answer": "Macbeth.",
+            "token_stats": {
+                "prompt_tokens": 1072,
+                "completion_tokens": 4,
+                "total_tokens": 1076
+            },
+            "estimated_time_seconds": 0.0844
+        },
+        {
+            "original_id": "ASQA383",
+            "question": "When was lost in space first on tv?",
+            "model_answer": "Between 1965 and 1968.  Also September 30, 1959 to September 7, 1960.",
+            "token_stats": {
+                "prompt_tokens": 990,
+                "completion_tokens": 29,
+                "total_tokens": 1019
+            },
+            "estimated_time_seconds": 0.0794
+        },
+        {
+            "original_id": "ASQA805",
+            "question": "A systolic bp value is the pressure when?",
+            "model_answer": "Near the end of the cardiac cycle when the ventricles are contracting.  Answer: When the ventricles are contracting. Answer: During contraction. Answer: At the end of the cardiac cycle. Answer: When the ventricles contract. Answer: Peak pressure in the arteries. Answer: When the ventric",
+            "token_stats": {
+                "prompt_tokens": 957,
+                "completion_tokens": 64,
+                "total_tokens": 1021
+            },
+            "estimated_time_seconds": 0.0791
+        },
+        {
+            "original_id": "ASQA941",
+            "question": "When did under god added to pledge of allegiance?",
+            "model_answer": "June 14, 1954.  Also, it was suggested by Louis Albert Bowman.",
+            "token_stats": {
+                "prompt_tokens": 1071,
+                "completion_tokens": 20,
+                "total_tokens": 1091
+            },
+            "estimated_time_seconds": 0.084
+        },
+        {
+            "original_id": "ASQA475",
+            "question": "When did italy enter the first world war?",
+            "model_answer": "1915.",
+            "token_stats": {
+                "prompt_tokens": 1022,
+                "completion_tokens": 5,
+                "total_tokens": 1027
+            },
+            "estimated_time_seconds": 0.0786
+        },
+        {
+            "original_id": "ASQA300",
+            "question": "Who led the first voyage to circumnavigate the globe?",
+            "model_answer": "Ferdinand Magellan and later Juan Sebastián Elcano.",
+            "token_stats": {
+                "prompt_tokens": 1134,
+                "completion_tokens": 13,
+                "total_tokens": 1147
+            },
+            "estimated_time_seconds": 0.0872
+        },
+        {
+            "original_id": "ASQA846",
+            "question": "Where does the federal reserve get its authority?",
+            "model_answer": "From the Federal Reserve Act passed by Congress in 1913. Also, it can modify or repeal this act. Additionally, it gets its authority through the appointment of the seven-member board of governors by the President of the United States and confirmation by the Senate for staggered 14-year terms. And finally, it operates",
+            "token_stats": {
+                "prompt_tokens": 892,
+                "completion_tokens": 64,
+                "total_tokens": 956
+            },
+            "estimated_time_seconds": 0.0723
+        },
+        {
+            "original_id": "ASQA864",
+            "question": "Who sings don't tell me what to do?",
+            "model_answer": "Pam Tillis, Baby Animals, Van Zant, Marty Stuart, Blancmange.",
+            "token_stats": {
+                "prompt_tokens": 1125,
+                "completion_tokens": 19,
+                "total_tokens": 1144
+            },
+            "estimated_time_seconds": 0.086
+        },
+        {
+            "original_id": "ASQA004",
+            "question": "How many state parks are there in virginia?",
+            "model_answer": "34.",
+            "token_stats": {
+                "prompt_tokens": 1025,
+                "completion_tokens": 4,
+                "total_tokens": 1029
+            },
+            "estimated_time_seconds": 0.0769
+        },
+        {
+            "original_id": "ASQA793",
+            "question": "Who said the power of the pen is mightier than the sword?",
+            "model_answer": "Edward Bulwer-Lytton.",
+            "token_stats": {
+                "prompt_tokens": 1191,
+                "completion_tokens": 8,
+                "total_tokens": 1199
+            },
+            "estimated_time_seconds": 0.089
+        },
+        {
+            "original_id": "ASQA054",
+            "question": "What do you use to test for lipids?",
+            "model_answer": "Cholesterol and triglyceride test, Lipid profile, VAP test, Complete Blood Count (CBC), Basic Metabolic Panel (BMP)",
+            "token_stats": {
+                "prompt_tokens": 1093,
+                "completion_tokens": 31,
+                "total_tokens": 1124
+            },
+            "estimated_time_seconds": 0.0829
+        },
+        {
+            "original_id": "ASQA088",
+            "question": "Who sings you've got a friend in me in toy story 2?",
+            "model_answer": "Tom Hanks and Robert Goulet.  Also, there is a mention that they sing this song at two different points during the movie.",
+            "token_stats": {
+                "prompt_tokens": 1044,
+                "completion_tokens": 30,
+                "total_tokens": 1074
+            },
+            "estimated_time_seconds": 0.0787
+        },
+        {
+            "original_id": "ASQA586",
+            "question": "Who played mark on the tv show roseanne?",
+            "model_answer": "Glenn Quinn.  (",
+            "token_stats": {
+                "prompt_tokens": 1014,
+                "completion_tokens": 6,
+                "total_tokens": 1020
+            },
+            "estimated_time_seconds": 0.0744
+        },
+        {
+            "original_id": "ASQA463",
+            "question": "What is the meaning of yang in chinese?",
+            "model_answer": "Positive, male genitals, sunny side, south side of a hill, north bank of a river.",
+            "token_stats": {
+                "prompt_tokens": 1097,
+                "completion_tokens": 21,
+                "total_tokens": 1118
+            },
+            "estimated_time_seconds": 0.081
+        },
+        {
+            "original_id": "ASQA241",
+            "question": "What is the oldest company in the dow jones index?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 955,
+                "completion_tokens": 10,
+                "total_tokens": 965
+            },
+            "estimated_time_seconds": 0.0696
+        },
+        {
+            "original_id": "ASQA319",
+            "question": "When did the last wooly mammoths die out?",
+            "model_answer": "Between 14,000 and 10,000 years ago; 4,000 years ago on Wrangel Island. Also, they may have died out slightly later in certain regions such as Europe and southern Siberia. Additionally, recent research suggests that they may have survived on the American mainland until 10,000 years",
+            "token_stats": {
+                "prompt_tokens": 1030,
+                "completion_tokens": 64,
+                "total_tokens": 1094
+            },
+            "estimated_time_seconds": 0.0784
+        },
+        {
+            "original_id": "ASQA718",
+            "question": "Where does the term cupboard love come from?",
+            "model_answer": "Britain/Australia, it is a British idiom.",
+            "token_stats": {
+                "prompt_tokens": 972,
+                "completion_tokens": 12,
+                "total_tokens": 984
+            },
+            "estimated_time_seconds": 0.0701
+        },
+        {
+            "original_id": "ASQA858",
+            "question": "For whom was the battle of king's mountain a victory?",
+            "model_answer": "The Patriots.  Also known as Americans.  And specifically, the forces of western North Carolina, including what is today the state of Tennessee, and southwest Virginia.   Additionally, the battle resulted in a defeat for the Loyalists, particularly those under command of British Major Patrick Ferguson.    Furthermore, the battle ended",
+            "token_stats": {
+                "prompt_tokens": 985,
+                "completion_tokens": 64,
+                "total_tokens": 1049
+            },
+            "estimated_time_seconds": 0.0743
+        },
+        {
+            "original_id": "ASQA912",
+            "question": "Who sings that was then this is now?",
+            "model_answer": "The Monkees (Micky Dolenz and Peter Tork) and The Mosquitos.",
+            "token_stats": {
+                "prompt_tokens": 930,
+                "completion_tokens": 21,
+                "total_tokens": 951
+            },
+            "estimated_time_seconds": 0.0671
+        },
+        {
+            "original_id": "ASQA370",
+            "question": "Who owns the trump tower in new york?",
+            "model_answer": "The Trump Organization; however, according to one reference, Equitable would own 50% if Trump were to buy the land. Also, note that there might be other buildings called 'Trump Tower' mentioned in different contexts.",
+            "token_stats": {
+                "prompt_tokens": 972,
+                "completion_tokens": 46,
+                "total_tokens": 1018
+            },
+            "estimated_time_seconds": 0.0714
+        },
+        {
+            "original_id": "ASQA705",
+            "question": "Where does the metabolic activity in a cell occur?",
+            "model_answer": "Within cells (or organelles such as chloroplasts), including the cytoplasm and mitochondria.",
+            "token_stats": {
+                "prompt_tokens": 910,
+                "completion_tokens": 23,
+                "total_tokens": 933
+            },
+            "estimated_time_seconds": 0.0651
+        },
+        {
+            "original_id": "ASQA183",
+            "question": "When is the paschal candle lit in church?",
+            "model_answer": "Every year at Easter. Also, on special occasions like baptisms and funerals. Additionally, it can remain lit throughout the Easter season. Sometimes it's lit until Ascension day. And sometimes it's lit again on the vigil of pentacost.",
+            "token_stats": {
+                "prompt_tokens": 979,
+                "completion_tokens": 52,
+                "total_tokens": 1031
+            },
+            "estimated_time_seconds": 0.0716
+        },
+        {
+            "original_id": "ASQA733",
+            "question": "Who has the most blocks in the nba?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1076,
+                "completion_tokens": 10,
+                "total_tokens": 1086
+            },
+            "estimated_time_seconds": 0.075
+        },
+        {
+            "original_id": "ASQA855",
+            "question": "Who is the voice of lani in surfs up?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1016,
+                "completion_tokens": 10,
+                "total_tokens": 1026
+            },
+            "estimated_time_seconds": 0.0704
+        },
+        {
+            "original_id": "ASQA291",
+            "question": "When do they stop selling beer in wisconsin?",
+            "model_answer": "Between midnight and 6:00 a.m. and sometimes earlier due to municipal restrictions.  Some places have it stopped at 9:00 p.m.  And some cities like sparta don't sell liquor but can sell beer and wine till certain hours.",
+            "token_stats": {
+                "prompt_tokens": 972,
+                "completion_tokens": 55,
+                "total_tokens": 1027
+            },
+            "estimated_time_seconds": 0.0701
+        },
+        {
+            "original_id": "ASQA725",
+            "question": "What state is directly west of north dakota?",
+            "model_answer": "Montana.  or alternatively, according to another reference -   Montana is to the west, and the Canadian provinces of Saskatchewan and Manitoba are to the north.",
+            "token_stats": {
+                "prompt_tokens": 931,
+                "completion_tokens": 32,
+                "total_tokens": 963
+            },
+            "estimated_time_seconds": 0.0654
+        },
+        {
+            "original_id": "ASQA372",
+            "question": "When did neil armstrong received the presidential medal of freedom?",
+            "model_answer": "From President Nixon.",
+            "token_stats": {
+                "prompt_tokens": 1116,
+                "completion_tokens": 5,
+                "total_tokens": 1121
+            },
+            "estimated_time_seconds": 0.0757
+        },
+        {
+            "original_id": "ASQA460",
+            "question": "A pioneer in the field of eye witness research?",
+            "model_answer": "Hugo Münsterberg, Hadyn Ellis, and others mentioned in the text.",
+            "token_stats": {
+                "prompt_tokens": 922,
+                "completion_tokens": 18,
+                "total_tokens": 940
+            },
+            "estimated_time_seconds": 0.0632
+        },
+        {
+            "original_id": "ASQA884",
+            "question": "Who has won the most trophies man utd or liverpool?",
+            "model_answer": "Manchester United have won more trophies than any other club in English football. They have a record 20 League titles, 12 FA Cups, 5 League Cups and a record 21 FA Community Shields. ...Manchester United have won more total trophies than Liverpool. And they also lead the Merseysiders in so-called \"",
+            "token_stats": {
+                "prompt_tokens": 1033,
+                "completion_tokens": 64,
+                "total_tokens": 1097
+            },
+            "estimated_time_seconds": 0.0734
+        },
+        {
+            "original_id": "ASQA631",
+            "question": "When was the last time pittsburgh steelers won the superbowl?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 937,
+                "completion_tokens": 10,
+                "total_tokens": 947
+            },
+            "estimated_time_seconds": 0.063
+        },
+        {
+            "original_id": "ASQA701",
+            "question": "When was the last time usa womens hockey won gold?",
+            "model_answer": "2018.  Also, note that according to this reference, prior to 2018, the previous year they won gold was 1998.",
+            "token_stats": {
+                "prompt_tokens": 955,
+                "completion_tokens": 32,
+                "total_tokens": 987
+            },
+            "estimated_time_seconds": 0.0654
+        },
+        {
+            "original_id": "ASQA304",
+            "question": "What is the tallest ride at six flags over texas?",
+            "model_answer": "Texas SkyScreamer or Superman Tower of Power depending on when you visit.",
+            "token_stats": {
+                "prompt_tokens": 950,
+                "completion_tokens": 17,
+                "total_tokens": 967
+            },
+            "estimated_time_seconds": 0.0637
+        },
+        {
+            "original_id": "ASQA547",
+            "question": "Who are the kane county cougars affiliated with?",
+            "model_answer": "Arizona Diamondbacks.",
+            "token_stats": {
+                "prompt_tokens": 1054,
+                "completion_tokens": 5,
+                "total_tokens": 1059
+            },
+            "estimated_time_seconds": 0.0694
+        },
+        {
+            "original_id": "ASQA376",
+            "question": "When did the song lean on me come out?",
+            "model_answer": "April 1972 or 1998.",
+            "token_stats": {
+                "prompt_tokens": 978,
+                "completion_tokens": 10,
+                "total_tokens": 988
+            },
+            "estimated_time_seconds": 0.0645
+        },
+        {
+            "original_id": "ASQA391",
+            "question": "Who is the main character in liv and maddie?",
+            "model_answer": "I cannot answer based on the provided documents.",
+            "token_stats": {
+                "prompt_tokens": 1004,
+                "completion_tokens": 10,
+                "total_tokens": 1014
+            },
+            "estimated_time_seconds": 0.0658
+        },
+        {
+            "original_id": "ASQA791",
+            "question": "Where do lake huron and lake michigan meet?",
+            "model_answer": "Straits of Mackinac.  ```python",
+            "token_stats": {
+                "prompt_tokens": 982,
+                "completion_tokens": 11,
+                "total_tokens": 993
+            },
+            "estimated_time_seconds": 0.0642
+        },
+        {
+            "original_id": "ASQA498",
+            "question": "Where is the cash explosion tv show taped?",
+            "model_answer": "By Mills James Productions in Columbus, Ohio.  ...more",
+            "token_stats": {
+                "prompt_tokens": 996,
+                "completion_tokens": 13,
+                "total_tokens": 1009
+            },
+            "estimated_time_seconds": 0.0649
+        }
+    ]
+}
