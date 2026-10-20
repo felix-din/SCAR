@@ -1,0 +1,27 @@
+# 1. 安装下载工具
+pip install -U huggingface_hub
+pip install modelscope
+
+# 2. 设置环境变量（临时生效，建议执行）
+export HF_ENDPOINT=https://hf-mirror.com
+
+# 3、下载wiki数据
+huggingface-cli download --repo-type dataset --local-dir /root/autodl-tmp/SCAR/data/wiki/facebook/wiki_dpr
+
+# 4、嵌入 (Embedding & Reranker)
+# BGE-M3 (全能型，支持多向量/多语言)
+python -c "from modelscope import snapshot_download; snapshot_download('BAAI/bge-m3', local_dir='/root/autodl-tmp/SCAR/models/bge-m3')"
+
+# BGE-Reranker-v2-m3 (目前最通用的重排判官)
+python -c "from modelscope import snapshot_download; snapshot_download('BAAI/bge-reranker-v2-m3', local_dir='/root/autodl-tmp/SCAR/models/bge-reranker-v2-m3')"
+
+# 5、下载正向模型 Llama-3.1-8B-Instruct
+python -c "from modelscope import snapshot_download; snapshot_download('LLM-Research/Meta-Llama-3.1-8B-Instruct', local_dir='/root/autodl-tmp/SCAR/models/Meta-Llama-3.1-8B-Instruct')"
+
+# 6、下载审计模型 Qwen2.5-14B-Instruct
+python -c "from modelscope import snapshot_download; snapshot_download('Qwen/Qwen2.5-14B-Instruct', local_dir='/root/autodl-tmp/SCAR/models/Qwen2.5-14B-Instruct')"
+
+# 7. 下载审计模型 Mistral-NeMo-12B-Instruct
+huggingface-cli download mistralai/Mistral-Nemo-Instruct-2407 \
+--local-dir /root/autodl-tmp/SCAR/models/Mistral-NeMo-12B-Instruct \
+--resume-download
